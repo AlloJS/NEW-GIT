@@ -1,0 +1,4 @@
+<?php 
+PROVA PHP
+
+?>
